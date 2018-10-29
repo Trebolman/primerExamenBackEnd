@@ -1,0 +1,11 @@
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\bin\Debug\netcoreapp2.1\PrimerExamenBackEnd.deps.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\bin\Debug\netcoreapp2.1\PrimerExamenBackEnd.runtimeconfig.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\bin\Debug\netcoreapp2.1\PrimerExamenBackEnd.runtimeconfig.dev.json
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\bin\Debug\netcoreapp2.1\PrimerExamenBackEnd.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\bin\Debug\netcoreapp2.1\PrimerExamenBackEnd.pdb
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\obj\Debug\netcoreapp2.1\PrimerExamenBackEnd.csprojAssemblyReference.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\obj\Debug\netcoreapp2.1\PrimerExamenBackEnd.csproj.CoreCompileInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\obj\Debug\netcoreapp2.1\PrimerExamenBackEnd.AssemblyInfoInputs.cache
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\obj\Debug\netcoreapp2.1\PrimerExamenBackEnd.AssemblyInfo.cs
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\obj\Debug\netcoreapp2.1\PrimerExamenBackEnd.dll
+D:\Cursos libres\Tecsup\codiGO\Back-End\Tareas\primerExamenBackEnd\PrimerExamenBackEnd\PrimerExamenBackEnd\obj\Debug\netcoreapp2.1\PrimerExamenBackEnd.pdb
